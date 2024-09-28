@@ -19,7 +19,7 @@
 <a href="https://www.behance.net/marcaustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="marcaustin" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap,flutter,js,html,react,ts" />
@@ -29,10 +29,10 @@
 </div>
 
 
-
+<h2 align="center">Github Status:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcAusss&show_icons=true&theme=transparent" alt="MarcAusss's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcAusss&show_icons=true&theme=transparent" alt="MarcAusss's GitHub stats" /><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcAusss&theme=neon&hide_border=false" alt="GitHub Streak Stats"/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcAusss&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br/>
 </p>
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcAusss&theme=neon&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcAusss&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
