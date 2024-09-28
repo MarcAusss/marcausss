@@ -46,4 +46,7 @@
   </a>
 </p>
 
+### 🐍 Contribution Snake
+
+![GitHub Snake Game](https://github.com/MarcAusss/MarcAusss/raw/output/github-snake.svg)
 
