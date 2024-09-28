@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5002&pause=1011&center=true&vCenter=true&width=1240&height=100&lines=Hi%F0%9F%91%8B%2C+I'm+Marc+Austin+Bonagua)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=5002&pause=2000&center=true&vCenter=true&width=1240&height=100&lines=Hi%F0%9F%91%8B%2C+I'm+Marc+Austin+Bonagua)](https://git.io/typing-svg)
 <h3 align="center">I’m a Full Stack Web Developer and UX/UI Designer with a passion for building responsive, user-friendly web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif"/>
 
