@@ -30,6 +30,9 @@
 
 
 
-  ![](https://github-readme-stats.vercel.app/api?username=MarcAusss&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcAusss&show_icons=true&theme=transparent" alt="MarcAusss's GitHub stats" />
+</p>
+
   ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcAusss&theme=neon&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcAusss&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
