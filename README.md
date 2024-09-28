@@ -1,6 +1,6 @@
-
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%20👋%20,%20I'm%20Marc%20Austin%20Bonagua)](https://git.io/typing-svg)</h1>
-
+<div align="center>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%20👋%20,%20I'm%20Marc%20Austin%20Bonagua)](https://git.io/typing-svg)
+</div>
 <h3 align="center">I’m a Full Stack Web Developer and UX/UI Designer with a passion for building responsive, user-friendly web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif"/>
 
