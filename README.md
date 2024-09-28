@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/Hi 👋, I'm Marc Austin BonaguaFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%20👋%20,%20I'm%20Marc%20Austin%20Bonagua)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Marc Austin Bonagua</h1>
 
 <h3 align="center">I’m a Full Stack Web Developer and UX/UI Designer with a passion for building responsive, user-friendly web applications.</h3>
