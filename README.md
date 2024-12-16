@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=5002&pause=2000&center=true&vCenter=true&width=1240&height=100&lines=Hi%F0%9F%91%8B%2C+I'm+Marc+Austin+Bonagua)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=5002&pause=2000&center=true&vCenter=true&width=1240&height=100&lines=Hi%F0%9F%91%8B%2C+I'm+Marc+Austin)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=MarcAusss&label=Profile%20Views&color=12&icon=2&pretty=true" />
