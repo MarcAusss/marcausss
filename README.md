@@ -46,8 +46,6 @@
   </a>
 </p>
 
-### 🐍 Contribution Snake
 
-![GitHub Snake Game](https://github.com/MarcAusss/MarcAusss/raw/main/github-snake.svg)
-
+[![MarcAusss's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcAusss&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
