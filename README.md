@@ -37,7 +37,6 @@
 
 <h2 align="center">Github Status:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcAusss&show_icons=true&theme=transparent" alt="MarcAusss's GitHub stats" /><br/><br/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=MarcAusss&theme=transparent&hide_border=true" alt="GitHub Streak Stats"/>
   </a><br/><br/>
